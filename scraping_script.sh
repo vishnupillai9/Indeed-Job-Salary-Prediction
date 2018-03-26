@@ -1,0 +1,22 @@
+#!/bin/sh
+python scrape.py data+scientist
+python scrape.py data+analyst
+python scrape.py business+analyst 
+python scrape.py software+developer 
+python scrape.py software+engineer 
+python scrape.py ios+developer 
+python scrape.py android+developer 
+python scrape.py front+end+developer 
+python scrape.py full+stack+developer 
+python scrape.py back+end+developer 
+python scrape.py machine+learning+engineer 
+python scrape.py qa+analyst 
+python scrape.py marketing+analyst 
+python scrape.py product+manager 
+python scrape.py project+manager 
+python scrape.py application+developer 
+python scrape.py database+administrator 
+python scrape.py java+developer 
+python scrape.py python+developer 
+python scrape.py web+developer 
+python scrape.py solutions+architect 
